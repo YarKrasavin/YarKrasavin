@@ -5,4 +5,4 @@
 2. Дизайны всякой всячены
 
 ### Связь со мной
-https://discord.com/users/494529422511308804
+![image](https://github.com/YarKrasavin/YarKrasavin/assets/101522520/3f8a0add-1773-40dd-a767-0710801acb8f)
