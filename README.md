@@ -1,4 +1,8 @@
 # Привет
+Я YarKrasavin
+Discord: `@yarkrasavin`(в бане)
 ## Обо мне:
-Изучаю разработку скриптов на denizen, так же делаю сервера minecraft
+Владелец minecraft server'a ZenPower
+Java разработки для сервера 
+ZPChat.jar - дополнение к плагину на чат
 
