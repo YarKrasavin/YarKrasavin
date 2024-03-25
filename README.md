@@ -1,11 +1,13 @@
 # Привет
 Я YarKrasavin
 
-Discord: `@yarkrasavin`(в бане)
+Discord: `@yarkrasavin`
 ## Обо мне:
 Владелец minecraft server'a ZenPower
 
 Java разработки для сервера 
 
-ZPChat.jar - дополнение к плагину на чат
+ZPChatAddon.jar - дополнение к плагину на чат
+
+ZPChatBubbles - чат над головой
 
