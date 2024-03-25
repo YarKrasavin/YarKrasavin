@@ -2,6 +2,7 @@
 Я YarKrasavin
 
 Discord: `@yarkrasavin`
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/882886381024714802)](https://discord.com/users/882886381024714802)
 
 ## Обо мне:
